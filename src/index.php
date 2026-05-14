@@ -12,5 +12,6 @@ try {
 } catch (PDOException $e) {
  echo "<p style='color: red;'>Erro ao conectar: " . $e→getMessage() . "</p>";
 }
-/* LINHA NOVA DE TESTE */
+/* LINHA NOVA DE TESTE
+mais uma */
 ?>
