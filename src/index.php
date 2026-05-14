@@ -2,6 +2,7 @@
 $host = 'db:/firebird/data/agenda.fdb';
 $user = 'SYSDBA';
 $password = 'masterkey';
+$var_teste = "Funcionando."
 echo "<h1>Teste de Conexão - Agenda Telefônica</h1>";
 try {
  $pdo = new PDO("firebird:dbname=$host", $user, $password);
@@ -14,4 +15,7 @@ try {
 }
 /* LINHA NOVA DE TESTE
 mais uma */
+
+echo "<p>$var_teste";
+
 ?>
