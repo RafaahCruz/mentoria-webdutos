@@ -20,8 +20,4 @@ echo "<p>Estado atual do teste: $var_teste";
 
 echo "<p>Essa é a versão da branch Main";
 
-
-
-echo "<p>Essa é a versão da branch Implementation.";
-
 ?>
