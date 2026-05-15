@@ -16,6 +16,6 @@ try {
 /* LINHA NOVA DE TESTE
 mais uma */
 
-echo "<p>$var_teste";
+echo "<p>Estado atual do teste: $var_teste";
 
 ?>
