@@ -17,12 +17,11 @@ try {
 mais uma */
 
 echo "<p>Estado atual do teste: $var_teste";
-<<<<<<< HEAD
+
 echo "<p>Essa é a versão da branch Main";
-=======
+
 
 
 echo "<p>Essa é a versão da branch Implementation.";
 
->>>>>>> Implementation
 ?>
